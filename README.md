@@ -1,41 +1,44 @@
-# 👋 I'm Tkalum
+<div align="center">
 
-### Systems Programmer | Rust & C Specialist | Linux Enthusiast
+# ⚡ Tkalum
+**Systems Engineer | Rust & C Specialist | Linux Native**
 
-I focus on high-performance, low-level software and secure data handling. I specialize in bridging the gap between hardware and software using **Rust** and **C** in a dedicated Linux-first environment.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Building+memory-safe+systems;Mastering+low-level+performance;Optimizing+the+Linux+Kernel)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 Featured Projects
+[ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkalum&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=00FF41) ](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+### 🔧 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,git,neovim,docker" />
+</p>
+
+---
+
+### 📂 Featured Production
 #### 🔒 [Veilbit](https://github.com/tkalum/veilbit) 
-*Performance-focused steganography tool built with Rust.*
-- **Logic:** Implements Least Significant Bit (LSB) encoding to securely embed data within images.
-- **Performance:** Leverages Rust's memory safety and zero-cost abstractions for fast, efficient processing.
-- **Goal:** Providing a lightweight, CLI-based solution for secure data hiding.
+> **Secure Steganography Engine**
+> - Written in **Rust** for zero-cost abstraction.
+> - Implements LSB encoding for high-fidelity data hiding.
+> - Optimized for CLI-first workflows.
 
 ---
 
-### 🛠️ Technical Stack
-
-- **Languages:** Rust, C, Bash
-- **Specializations:** Linux Systems, Socket Programming, Data Encoding
-- **Workflow:** Neovim, Cargo, Git, CLI-driven development
-- **Current Focus:** Performance optimization and POSIX-compliant system utilities
+### 🛠️ Current Activity
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tkalum&theme=transparent&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📊 Proficiency & Stats
+### 🤝 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/tharusha-kalum-8289a538b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tkalum" height="30" width="40" /></a>
+</p>
 
-![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-### 📫 Connect with me
-- **LinkedIn:** [Your Profile Link]
-- **Discord:** [Your Username]
-
-*"If it's not fast, it's not finished."*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
+</div>
