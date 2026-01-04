@@ -5,10 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Building+memory-safe+systems;Mastering+low-level+performance;Optimizing+the+Linux+Kernel)](https://git.io/typing-svg)
 
----
-
-[ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkalum&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=00FF41) ](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ### 🔧 Tech Stack
@@ -21,7 +17,7 @@
 ### 📂 Featured Production
 #### 🔒 [Veilbit](https://github.com/tkalum/veilbit) 
 > **Secure Steganography Engine**
-> - Written in **Rust** for zero-cost abstraction.
+> - Written in **C** for zero-cost abstraction.
 > - Implements LSB encoding for high-fidelity data hiding.
 > - Optimized for CLI-first workflows.
 
