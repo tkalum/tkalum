@@ -9,7 +9,7 @@
 
 ### 🔧 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,git,neovim,docker" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,git,neovim" />
 </p>
 
 ---
